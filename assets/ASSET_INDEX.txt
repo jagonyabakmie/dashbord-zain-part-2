@@ -1,0 +1,52 @@
+DASHBOARD ASSET PACK
+====================
+
+Background/Header/Sidebar:
+- 01_background_main.png
+- 02_header_banner.png
+- 03_sidebar_background.png
+- 04_sidebar_logo_area.png
+- 05_sidebar_bottom.png
+- 06_background_overlay.png
+
+Cards/Titles/KPI/Controls:
+- 07_card_large.png
+- 08_card_medium.png
+- 09_card_small.png
+- 10_card_insight.png
+- 11_section_title.png
+- 12_subsection_title.png
+- 14_kpi_students.png
+- 15_kpi_schools.png
+- 16_kpi_mean_math.png
+- 17_kpi_score_sd.png
+- 18_kpi_prior.png
+- 19_kpi_hours.png
+- 20_filter_container.png
+- 21_dropdown.png
+- 22_search_box.png
+- 23_button_primary.png
+- 24_button_secondary.png
+- 25_tabs.png
+
+Decorative PNG elements:
+- 26a_leaf_top_left.png
+- 26b_leaf_top_right.png
+- 26c_leaf_bottom_left.png
+- 26d_leaf_bottom_right.png
+- 26e_wave.png
+- 26f_cloud_left.png
+- 26g_cloud_right.png
+- 26h_books.png
+- 26i_pencil.png
+- 26j_decorative_circles.png
+- 26k_sparkles.png
+
+Badges:
+- 13a_badge_overview.png
+- 13b_badge_rq01.png
+- 13c_badge_best_model.png
+- 13d_badge_student_level.png
+- 13e_badge_school_level.png
+- 13f_badge_significant.png
+- 13g_badge_pvalue.png
